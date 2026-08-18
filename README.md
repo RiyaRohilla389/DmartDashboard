@@ -43,7 +43,3 @@ Which is the most efficient Marketing Channel with less returns and more revenue
 - Power Query
 - Data Modeling
 - Data Visualization
-
-- `D-Mart_Dashboard.pbix` — Power BI dashboard
-- `Screenshots/` — Dashboard previews
-- `Dataset/` — Source dataset (if shareable)
